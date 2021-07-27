@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helmproject:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-27T21:52:13.8225513+05:30"
+    description: Demo Helm Project
+    digest: 93bbedb4ed2c4814ee03fb2633d750b931244376bbed291fd8f70e701ea4f9ac
+    name: helmproject
+    type: application
+    urls:
+    - helmproject-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-27T21:52:13.8163514+05:30"
